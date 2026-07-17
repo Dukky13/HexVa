@@ -2,7 +2,7 @@
 ![Example visualization](examples/LoremIpsum.bmp)
 # HexVa
 
-A simple Python project that converts **any binary file** into a **24-bit BMP image** by interpreting every three bytes as a single pixel.
+A simple Python project that converts **any file** into a **24-bit BMP image**
 
 ## Features
 
